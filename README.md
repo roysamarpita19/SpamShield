@@ -58,4 +58,4 @@ streamlit run app.py
 ```
 
 ## Contributing
-Contributions are welcome! Please feel free to submit issues or pull requests at the [GitHub repository](https://github.com/Kane-dylan/SpamShield.git).
+Contributions are welcome! Please feel free to submit issues or pull requests at the [GitHub repository](https://github.com/roysamarpita19/SpamShield.git).
