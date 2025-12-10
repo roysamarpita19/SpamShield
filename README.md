@@ -1,7 +1,7 @@
-# SpamShield: SMS Spam Detection
+# SpamShield: Email Spam Detection
 
 ## Overview
-SpamShield is an AI-powered SMS spam detection system that analyzes incoming messages and classifies them as spam or legitimate. Built with Python and Machine Learning, this application provides accurate spam detection through a web interface.
+SpamShield is an AI-powered Email spam detection system that analyzes incoming messages and classifies them as spam or legitimate. Built with Python and Machine Learning, this application provides accurate spam detection through a web interface.
 
 **Live Demo:** [SpamShield](https://spam-shield-dz46.onrender.com/)
 
@@ -11,13 +11,13 @@ SpamShield is an AI-powered SMS spam detection system that analyzes incoming mes
 - **Web Framework:** Streamlit
 
 ## Features
-- Real-time SMS spam classification
+- Real-time Email spam classification
 - Machine learning-based predictions
 - Web-based user interface
 - High precision spam detection
 
 ## Data Processing
-**Dataset:** [Kaggle SMS Spam Collection](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset) containing 5,500+ labeled SMS messages
+**Dataset:** [Kaggle Email Spam Collection](https://www.kaggle.com/datasets/uciml/Email-spam-collection-dataset) containing 5,500+ labeled Email messages
 
 **Preprocessing Steps:**
 - Handling missing and duplicate values
